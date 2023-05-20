@@ -1,0 +1,1691 @@
+[{
+  "_id": {
+    "$oid": "6465e3048c65ca45ae20ee02"
+  },
+  "temperature": "33.40",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T08:34:12.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e30e8c65ca45ae20ee04"
+  },
+  "temperature": "31.50",
+  "humidity": "69.00",
+  "date": {
+    "$date": "2023-05-18T08:34:22.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3188c65ca45ae20ee06"
+  },
+  "temperature": "31.60",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:34:32.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3228c65ca45ae20ee08"
+  },
+  "temperature": "31.60",
+  "humidity": "69.00",
+  "date": {
+    "$date": "2023-05-18T08:34:42.367Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e32c8c65ca45ae20ee0a"
+  },
+  "temperature": "31.60",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:34:52.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3368c65ca45ae20ee0c"
+  },
+  "temperature": "31.60",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:35:02.467Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3408c65ca45ae20ee0e"
+  },
+  "temperature": "31.70",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:35:12.513Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e34a8c65ca45ae20ee10"
+  },
+  "temperature": "31.70",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:35:22.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3548c65ca45ae20ee12"
+  },
+  "temperature": "31.80",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:35:32.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e35e8c65ca45ae20ee14"
+  },
+  "temperature": "31.80",
+  "humidity": "68.00",
+  "date": {
+    "$date": "2023-05-18T08:35:42.664Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3688c65ca45ae20ee16"
+  },
+  "temperature": "31.90",
+  "humidity": "67.00",
+  "date": {
+    "$date": "2023-05-18T08:35:52.715Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e3728c65ca45ae20ee18"
+  },
+  "temperature": "31.90",
+  "humidity": "67.00",
+  "date": {
+    "$date": "2023-05-18T08:36:02.767Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465e37c8c65ca45ae20ee1a"
+  },
+  "temperature": "31.90",
+  "humidity": "67.00",
+  "date": {
+    "$date": "2023-05-18T08:36:12.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eca18c65ca45ae20ee1c"
+  },
+  "temperature": "33.80",
+  "humidity": "61.00",
+  "date": {
+    "$date": "2023-05-18T09:15:13.886Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecab8c65ca45ae20ee1e"
+  },
+  "temperature": "33.70",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T09:15:23.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecb68c65ca45ae20ee20"
+  },
+  "temperature": "33.40",
+  "humidity": "56.00",
+  "date": {
+    "$date": "2023-05-18T09:15:34.008Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecc08c65ca45ae20ee22"
+  },
+  "temperature": "33.10",
+  "humidity": "57.00",
+  "date": {
+    "$date": "2023-05-18T09:15:44.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecca8c65ca45ae20ee24"
+  },
+  "temperature": "32.80",
+  "humidity": "57.00",
+  "date": {
+    "$date": "2023-05-18T09:15:54.086Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecd48c65ca45ae20ee26"
+  },
+  "temperature": "32.50",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T09:16:04.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecde8c65ca45ae20ee28"
+  },
+  "temperature": "32.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T09:16:14.664Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ece88c65ca45ae20ee2a"
+  },
+  "temperature": "32.00",
+  "humidity": "61.00",
+  "date": {
+    "$date": "2023-05-18T09:16:24.715Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecf28c65ca45ae20ee2c"
+  },
+  "temperature": "31.80",
+  "humidity": "58.00",
+  "date": {
+    "$date": "2023-05-18T09:16:34.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ecfd8c65ca45ae20ee2e"
+  },
+  "temperature": "31.60",
+  "humidity": "61.00",
+  "date": {
+    "$date": "2023-05-18T09:16:45.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed078c65ca45ae20ee30"
+  },
+  "temperature": "31.40",
+  "humidity": "62.00",
+  "date": {
+    "$date": "2023-05-18T09:16:55.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed118c65ca45ae20ee32"
+  },
+  "temperature": "31.30",
+  "humidity": "63.00",
+  "date": {
+    "$date": "2023-05-18T09:17:05.414Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed1b8c65ca45ae20ee34"
+  },
+  "temperature": "31.20",
+  "humidity": "62.00",
+  "date": {
+    "$date": "2023-05-18T09:17:15.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed258c65ca45ae20ee36"
+  },
+  "temperature": "31.00",
+  "humidity": "62.00",
+  "date": {
+    "$date": "2023-05-18T09:17:25.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed2f8c65ca45ae20ee38"
+  },
+  "temperature": "30.80",
+  "humidity": "61.00",
+  "date": {
+    "$date": "2023-05-18T09:17:35.929Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed3a8c65ca45ae20ee3a"
+  },
+  "temperature": "30.70",
+  "humidity": "62.00",
+  "date": {
+    "$date": "2023-05-18T09:17:46.092Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed448c65ca45ae20ee3c"
+  },
+  "temperature": "30.60",
+  "humidity": "63.00",
+  "date": {
+    "$date": "2023-05-18T09:17:56.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed4e8c65ca45ae20ee3e"
+  },
+  "temperature": "30.50",
+  "humidity": "64.00",
+  "date": {
+    "$date": "2023-05-18T09:18:06.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed588c65ca45ae20ee40"
+  },
+  "temperature": "30.50",
+  "humidity": "65.00",
+  "date": {
+    "$date": "2023-05-18T09:18:16.518Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed628c65ca45ae20ee42"
+  },
+  "temperature": "30.50",
+  "humidity": "65.00",
+  "date": {
+    "$date": "2023-05-18T09:18:26.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed6c8c65ca45ae20ee44"
+  },
+  "temperature": "30.40",
+  "humidity": "66.00",
+  "date": {
+    "$date": "2023-05-18T09:18:36.882Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed768c65ca45ae20ee46"
+  },
+  "temperature": "30.30",
+  "humidity": "64.00",
+  "date": {
+    "$date": "2023-05-18T09:18:46.959Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed818c65ca45ae20ee48"
+  },
+  "temperature": "30.20",
+  "humidity": "64.00",
+  "date": {
+    "$date": "2023-05-18T09:18:57.029Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed8b8c65ca45ae20ee4a"
+  },
+  "temperature": "30.20",
+  "humidity": "65.00",
+  "date": {
+    "$date": "2023-05-18T09:19:07.087Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed958c65ca45ae20ee4c"
+  },
+  "temperature": "30.10",
+  "humidity": "66.00",
+  "date": {
+    "$date": "2023-05-18T09:19:17.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ed9f8c65ca45ae20ee4e"
+  },
+  "temperature": "30.10",
+  "humidity": "66.00",
+  "date": {
+    "$date": "2023-05-18T09:19:27.440Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eda98c65ca45ae20ee50"
+  },
+  "temperature": "30.00",
+  "humidity": "65.00",
+  "date": {
+    "$date": "2023-05-18T09:19:37.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465edb38c65ca45ae20ee52"
+  },
+  "temperature": "29.90",
+  "humidity": "64.00",
+  "date": {
+    "$date": "2023-05-18T09:19:47.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465edbd8c65ca45ae20ee54"
+  },
+  "temperature": "29.90",
+  "humidity": "67.00",
+  "date": {
+    "$date": "2023-05-18T09:19:57.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465edc78c65ca45ae20ee56"
+  },
+  "temperature": "30.00",
+  "humidity": "70.00",
+  "date": {
+    "$date": "2023-05-18T09:20:07.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465edd28c65ca45ae20ee58"
+  },
+  "temperature": "29.90",
+  "humidity": "69.00",
+  "date": {
+    "$date": "2023-05-18T09:20:18.027Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eddc8c65ca45ae20ee5a"
+  },
+  "temperature": "30.00",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-18T09:20:28.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ede68c65ca45ae20ee5c"
+  },
+  "temperature": "30.00",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-18T09:20:38.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465edf08c65ca45ae20ee5e"
+  },
+  "temperature": "30.10",
+  "humidity": "72.00",
+  "date": {
+    "$date": "2023-05-18T09:20:48.578Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465edfa8c65ca45ae20ee60"
+  },
+  "temperature": "29.80",
+  "humidity": "62.00",
+  "date": {
+    "$date": "2023-05-18T09:20:58.778Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee048c65ca45ae20ee62"
+  },
+  "temperature": "28.80",
+  "humidity": "52.00",
+  "date": {
+    "$date": "2023-05-18T09:21:08.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee0e8c65ca45ae20ee64"
+  },
+  "temperature": "27.90",
+  "humidity": "55.00",
+  "date": {
+    "$date": "2023-05-18T09:21:18.912Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee198c65ca45ae20ee66"
+  },
+  "temperature": "27.50",
+  "humidity": "63.00",
+  "date": {
+    "$date": "2023-05-18T09:21:29.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee238c65ca45ae20ee68"
+  },
+  "temperature": "27.50",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-18T09:21:39.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee2d8c65ca45ae20ee6a"
+  },
+  "temperature": "27.60",
+  "humidity": "74.00",
+  "date": {
+    "$date": "2023-05-18T09:21:49.809Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee378c65ca45ae20ee6c"
+  },
+  "temperature": "27.70",
+  "humidity": "76.00",
+  "date": {
+    "$date": "2023-05-18T09:21:59.926Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee428c65ca45ae20ee6e"
+  },
+  "temperature": "27.90",
+  "humidity": "81.00",
+  "date": {
+    "$date": "2023-05-18T09:22:10.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee518c65ca45ae20ee70"
+  },
+  "temperature": "28.20",
+  "humidity": "83.00",
+  "date": {
+    "$date": "2023-05-18T09:22:25.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee608c65ca45ae20ee72"
+  },
+  "temperature": "28.30",
+  "humidity": "84.00",
+  "date": {
+    "$date": "2023-05-18T09:22:40.777Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee6f8c65ca45ae20ee74"
+  },
+  "temperature": "28.50",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:22:55.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee7f8c65ca45ae20ee76"
+  },
+  "temperature": "14.30",
+  "humidity": "171.00",
+  "date": {
+    "$date": "2023-05-18T09:23:11.034Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee898c65ca45ae20ee78"
+  },
+  "temperature": "28.70",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-18T09:23:21.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ee988c65ca45ae20ee7a"
+  },
+  "temperature": "28.80",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-18T09:23:36.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eed48c65ca45ae20ee7c"
+  },
+  "temperature": "29.30",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-18T09:24:36.949Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eee48c65ca45ae20ee7e"
+  },
+  "temperature": "29.20",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-18T09:24:52.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465eef38c65ca45ae20ee80"
+  },
+  "temperature": "29.20",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-18T09:25:07.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef118c65ca45ae20ee82"
+  },
+  "temperature": "14.40",
+  "humidity": "171.00",
+  "date": {
+    "$date": "2023-05-18T09:25:37.737Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef208c65ca45ae20ee84"
+  },
+  "temperature": "28.80",
+  "humidity": "86.00",
+  "date": {
+    "$date": "2023-05-18T09:25:52.858Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef308c65ca45ae20ee86"
+  },
+  "temperature": "28.50",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:26:08.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef3a8c65ca45ae20ee88"
+  },
+  "temperature": "28.30",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:26:18.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef448c65ca45ae20ee8a"
+  },
+  "temperature": "28.30",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:26:28.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef4e8c65ca45ae20ee8c"
+  },
+  "temperature": "28.20",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:26:38.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef588c65ca45ae20ee8e"
+  },
+  "temperature": "28.00",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:26:48.477Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef628c65ca45ae20ee90"
+  },
+  "temperature": "27.90",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:26:58.823Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef6c8c65ca45ae20ee92"
+  },
+  "temperature": "27.90",
+  "humidity": "86.00",
+  "date": {
+    "$date": "2023-05-18T09:27:08.791Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef768c65ca45ae20ee94"
+  },
+  "temperature": "27.80",
+  "humidity": "86.00",
+  "date": {
+    "$date": "2023-05-18T09:27:18.888Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef868c65ca45ae20ee96"
+  },
+  "temperature": "27.70",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:27:34.240Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef908c65ca45ae20ee98"
+  },
+  "temperature": "27.60",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:27:44.291Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ef9a8c65ca45ae20ee9a"
+  },
+  "temperature": "27.60",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:27:54.342Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465efa48c65ca45ae20ee9c"
+  },
+  "temperature": "27.40",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:28:04.389Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465efae8c65ca45ae20ee9e"
+  },
+  "temperature": "27.40",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:28:14.583Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465efb88c65ca45ae20eea0"
+  },
+  "temperature": "27.30",
+  "humidity": "85.00",
+  "date": {
+    "$date": "2023-05-18T09:28:24.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465efc28c65ca45ae20eea2"
+  },
+  "temperature": "27.20",
+  "humidity": "84.00",
+  "date": {
+    "$date": "2023-05-18T09:28:35.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465f7a18c65ca45ae20eea4"
+  },
+  "temperature": "33.90",
+  "humidity": "58.00",
+  "date": {
+    "$date": "2023-05-18T10:02:09.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465f7ab8c65ca45ae20eea6"
+  },
+  "temperature": "33.90",
+  "humidity": "58.00",
+  "date": {
+    "$date": "2023-05-18T10:02:19.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465f7b58c65ca45ae20eea8"
+  },
+  "temperature": "33.90",
+  "humidity": "58.00",
+  "date": {
+    "$date": "2023-05-18T10:02:29.502Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465f7bf8c65ca45ae20eeaa"
+  },
+  "temperature": "33.90",
+  "humidity": "58.00",
+  "date": {
+    "$date": "2023-05-18T10:02:39.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465f7c98c65ca45ae20eeac"
+  },
+  "temperature": "33.90",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:02:49.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465f8a61f6b74cd8b895097"
+  },
+  "temperature": "33.60",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:06:30.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa092c43db67fd1eef4c"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:12:25.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa132c43db67fd1eef4e"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:12:35.319Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa1d2c43db67fd1eef50"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:12:45.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa272c43db67fd1eef52"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:12:55.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa442c43db67fd1eef54"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:13:24.128Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa4e2c43db67fd1eef56"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:13:34.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa582c43db67fd1eef58"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:13:44.298Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa622c43db67fd1eef5a"
+  },
+  "temperature": "33.30",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:13:54.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa6c2c43db67fd1eef5c"
+  },
+  "temperature": "33.30",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:14:04.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa762c43db67fd1eef5e"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:14:14.436Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa802c43db67fd1eef60"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:14:24.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa8a2c43db67fd1eef62"
+  },
+  "temperature": "33.30",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:14:34.532Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa942c43db67fd1eef64"
+  },
+  "temperature": "33.30",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:14:44.581Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fa9e2c43db67fd1eef66"
+  },
+  "temperature": "33.30",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:14:54.630Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465faa82c43db67fd1eef68"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:15:04.777Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fab22c43db67fd1eef6a"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:15:14.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fabc2c43db67fd1eef6c"
+  },
+  "temperature": "33.80",
+  "humidity": "80.00",
+  "date": {
+    "$date": "2023-05-18T10:15:24.872Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465facb2c43db67fd1eef6e"
+  },
+  "temperature": "34.00",
+  "humidity": "78.00",
+  "date": {
+    "$date": "2023-05-18T10:15:39.960Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fad62c43db67fd1eef70"
+  },
+  "temperature": "33.90",
+  "humidity": "75.00",
+  "date": {
+    "$date": "2023-05-18T10:15:50.142Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fae02c43db67fd1eef72"
+  },
+  "temperature": "33.80",
+  "humidity": "69.00",
+  "date": {
+    "$date": "2023-05-18T10:16:00.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465faea2c43db67fd1eef74"
+  },
+  "temperature": "33.70",
+  "humidity": "64.00",
+  "date": {
+    "$date": "2023-05-18T10:16:10.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465faf42c43db67fd1eef76"
+  },
+  "temperature": "33.60",
+  "humidity": "62.00",
+  "date": {
+    "$date": "2023-05-18T10:16:20.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fafe2c43db67fd1eef78"
+  },
+  "temperature": "33.60",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:16:30.320Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb082c43db67fd1eef7a"
+  },
+  "temperature": "33.60",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:16:40.535Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb122c43db67fd1eef7c"
+  },
+  "temperature": "33.60",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:16:50.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb1c2c43db67fd1eef7e"
+  },
+  "temperature": "33.50",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:17:00.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb262c43db67fd1eef80"
+  },
+  "temperature": "33.50",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:17:10.661Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb302c43db67fd1eef82"
+  },
+  "temperature": "33.50",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:17:20.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb3a2c43db67fd1eef84"
+  },
+  "temperature": "35.20",
+  "humidity": "83.00",
+  "date": {
+    "$date": "2023-05-18T10:17:30.754Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb442c43db67fd1eef86"
+  },
+  "temperature": "34.90",
+  "humidity": "86.00",
+  "date": {
+    "$date": "2023-05-18T10:17:40.802Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb592c43db67fd1eef88"
+  },
+  "temperature": "34.20",
+  "humidity": "82.00",
+  "date": {
+    "$date": "2023-05-18T10:18:01.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb632c43db67fd1eef8a"
+  },
+  "temperature": "34.10",
+  "humidity": "80.00",
+  "date": {
+    "$date": "2023-05-18T10:18:11.186Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb6d2c43db67fd1eef8c"
+  },
+  "temperature": "33.80",
+  "humidity": "76.00",
+  "date": {
+    "$date": "2023-05-18T10:18:21.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fb772c43db67fd1eef8e"
+  },
+  "temperature": "33.70",
+  "humidity": "72.00",
+  "date": {
+    "$date": "2023-05-18T10:18:31.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fbcf2c43db67fd1eef90"
+  },
+  "temperature": "33.40",
+  "humidity": "61.00",
+  "date": {
+    "$date": "2023-05-18T10:19:59.598Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fbd92c43db67fd1eef92"
+  },
+  "temperature": "33.30",
+  "humidity": "61.00",
+  "date": {
+    "$date": "2023-05-18T10:20:09.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fbe32c43db67fd1eef94"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:20:19.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc012c43db67fd1eef96"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:20:49.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc0b2c43db67fd1eef98"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:20:59.803Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc152c43db67fd1eef9a"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:21:09.858Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc1f2c43db67fd1eef9c"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:21:19.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc292c43db67fd1eef9e"
+  },
+  "temperature": "33.30",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:21:29.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc342c43db67fd1eefa0"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:21:40.136Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc3e2c43db67fd1eefa2"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:21:50.185Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc482c43db67fd1eefa4"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:22:00.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc522c43db67fd1eefa6"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:22:10.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc5c2c43db67fd1eefa8"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:22:20.324Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc662c43db67fd1eefaa"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:22:30.416Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc702c43db67fd1eefac"
+  },
+  "temperature": "33.20",
+  "humidity": "60.00",
+  "date": {
+    "$date": "2023-05-18T10:22:40.450Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc7a2c43db67fd1eefae"
+  },
+  "temperature": "33.10",
+  "humidity": "59.00",
+  "date": {
+    "$date": "2023-05-18T10:22:50.498Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc842c43db67fd1eefb0"
+  },
+  "temperature": "34.60",
+  "humidity": "84.00",
+  "date": {
+    "$date": "2023-05-18T10:23:00.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fc8e2c43db67fd1eefb2"
+  },
+  "temperature": "33.90",
+  "humidity": "84.00",
+  "date": {
+    "$date": "2023-05-18T10:23:10.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fca22c43db67fd1eefb4"
+  },
+  "temperature": "33.70",
+  "humidity": "78.00",
+  "date": {
+    "$date": "2023-05-18T10:23:30.746Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fcac2c43db67fd1eefb6"
+  },
+  "temperature": "33.60",
+  "humidity": "75.00",
+  "date": {
+    "$date": "2023-05-18T10:23:40.788Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fcb62c43db67fd1eefb8"
+  },
+  "temperature": "33.50",
+  "humidity": "70.00",
+  "date": {
+    "$date": "2023-05-18T10:23:50.848Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465fcc12c43db67fd1eefba"
+  },
+  "temperature": "33.40",
+  "humidity": "66.00",
+  "date": {
+    "$date": "2023-05-18T10:24:01.030Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646842cba247bb3257c8593c"
+  },
+  "temperature": "33.40",
+  "humidity": "70.00",
+  "date": {
+    "$date": "2023-05-20T03:47:23.702Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646842d5a247bb3257c8593e"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:47:33.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646842dfa247bb3257c85940"
+  },
+  "temperature": "33.40",
+  "humidity": "70.00",
+  "date": {
+    "$date": "2023-05-20T03:47:43.777Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646842eea247bb3257c85942"
+  },
+  "temperature": "34.30",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-20T03:47:58.892Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468451968d3e627c7780d40"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:57:13.769Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468452368d3e627c7780d42"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:57:23.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468452d68d3e627c7780d44"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:57:33.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468453868d3e627c7780d46"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:57:44.138Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468454268d3e627c7780d48"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:57:54.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468455b68d3e627c7780d4a"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:58:19.582Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468456568d3e627c7780d4c"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:58:29.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468457068d3e627c7780d4e"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:58:40.175Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468457a68d3e627c7780d50"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:58:50.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468458468d3e627c7780d52"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:59:00.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468458e68d3e627c7780d54"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:59:10.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468459868d3e627c7780d56"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:59:20.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845a268d3e627c7780d58"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:59:30.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845ac68d3e627c7780d5a"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:59:40.638Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845b768d3e627c7780d5c"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T03:59:51.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845c068d3e627c7780d5e"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T04:00:00.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845ca68d3e627c7780d60"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T04:00:10.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845d568d3e627c7780d62"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T04:00:21.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845df68d3e627c7780d64"
+  },
+  "temperature": "33.40",
+  "humidity": "71.00",
+  "date": {
+    "$date": "2023-05-20T04:00:31.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845e968d3e627c7780d66"
+  },
+  "temperature": "35.20",
+  "humidity": "88.00",
+  "date": {
+    "$date": "2023-05-20T04:00:41.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646845f868d3e627c7780d68"
+  },
+  "temperature": "34.40",
+  "humidity": "88.00",
+  "date": {
+    "$date": "2023-05-20T04:00:56.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6468460768d3e627c7780d6a"
+  },
+  "temperature": "34.10",
+  "humidity": "87.00",
+  "date": {
+    "$date": "2023-05-20T04:01:11.391Z"
+  },
+  "__v": 0
+}]
